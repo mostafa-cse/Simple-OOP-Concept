@@ -1,32 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>OOP Concepts and Relationship in C++</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        code {
-            background: #f2f2f2;
-            padding: 4px 6px;
-            border-radius: 4px;
-            display: inline-block;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 12px;
-            overflow-x: auto;
-            border-left: 4px solid #007acc;
-        }
-        h1, h2, h3 {
-            color: #007acc;
-        }
-    </style>
-</head>
 <body>
 
 <h1>OOP and Relationship Concepts in C++</h1>
@@ -266,13 +240,5 @@ public:
 <p>Used for temporary interaction—ideal for modular, loosely coupled designs.</p>
 
 <hr/>
-
-<h3>🌐 References:</h3>
-<ul>
-    <li><a href="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp" target="_blank">GeeksforGeeks</a></li>
-    <li><a href="https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm" target="_blank">Tutorials Point</a></li>
-    <li><a href="https://www.programiz.com/cpp-programming/object-oriented-programming" target="_blank">Programiz</a></li>
-</ul>
-
 </body>
 </html>
